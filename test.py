@@ -1,3 +1,6 @@
+#ömer bu kod benim tamamı
+#Yasir 6/B Derbent İmam Hatib Ortaokulu
+
 from ursina import *
 import keyboard,math,random
 from perlin_noise import*
